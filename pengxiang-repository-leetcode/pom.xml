@@ -11,4 +11,11 @@
     </parent>
 
     <artifactId>pengxiang-repository-leetcode</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>pengxiang</groupId>
+            <artifactId>pengxiang-repository-utils</artifactId>
+        </dependency>
+    </dependencies>
 </project>
