@@ -16,7 +16,6 @@
     <version>${revision}</version>
 
     <modules>
-        <module>pengxiang-repository-leetcode</module>
         <module>pengxiang-repository-utils</module>
         <module>pengxiang-repository-leetcode</module>
     </modules>
